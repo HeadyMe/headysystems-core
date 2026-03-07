@@ -1,0 +1,12 @@
+{
+  "name": "HeadySystems",
+  "tagline": "AI Infrastructure Engine",
+  "description": "Enterprise-grade AI infrastructure — self-healing, Sacred Geometry orchestrated, zero-downtime deployment for the autonomous enterprise.",
+  "accent": "#4ade80",
+  "features": [
+    {"icon": "🔧", "title": "Self-Healing Infrastructure", "desc": "Auto-recovery with 99.97% uptime SLA"},
+    {"icon": "🐝", "title": "Buddy Orchestrator", "desc": "20 AI nodes in Sacred Geometry formation"},
+    {"icon": "📊", "title": "Live Telemetry", "desc": "Real-time observability across 9 domains"},
+    {"icon": "🔒", "title": "Zero Trust Security", "desc": "End-to-end encrypted AI inference"}
+  ]
+}
